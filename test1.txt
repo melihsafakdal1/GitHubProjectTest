@@ -1,0 +1,1 @@
+test1 dosyası ilk defa oluşturuldu ve ilk defa yazma işlemi yaptık.
